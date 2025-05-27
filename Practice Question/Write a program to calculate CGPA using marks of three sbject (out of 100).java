@@ -8,3 +8,4 @@ public static void main (String[]args)
     System.out.println(cgpa);
   }
 }
+Output : 6.266667 
